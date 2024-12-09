@@ -10,7 +10,6 @@ const Header=()=> {
         <Link to="movies/popular" style={{textDecoration: "none"}}>Popular</Link>
         <Link to="movies/top_rated" style={{textDecoration: "none"}}>Top rated</Link>
         <Link to="movies/upcoming" style={{textDecoration: "none"}}>Upcoming</Link>
-        {/* <input type="search" className="rounded-xl w-4/12 text-black p-1" /> */}
       </header>
   )
 }

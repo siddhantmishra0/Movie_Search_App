@@ -35,12 +35,6 @@
     margin-bottom: 0.4rem;
     text-align: left;
 }
-@media only screen and (max-width:787){
-    .posterImage_title{
-        font-weight: 300;
-        font-size: 2rem;
-    }
-}
 .posterImage_runtime {
     font-size: 2rem;
     margin-bottom: 1rem;
